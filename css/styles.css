@@ -1,7 +1,7 @@
 /* Random Quote Generator Styles */
 
 body {
-  background-color: #36b55c;
+  background-color: ;
   color: white;
   font-family: 'Playfair Display', serif;
 }
@@ -65,6 +65,11 @@ body {
 
 .year:before {
   content: ", ";
+  font-style: normal;
+}
+
+.tags {
+  content: "  "
   font-style: normal;
 }
 
